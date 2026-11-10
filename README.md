@@ -1,5 +1,7 @@
 # Python Course
 
+This repository contains notes and examples created while following [this YouTube playlist](https://www.youtube.com/playlist?list=PLsjpRo2EZP1Ja-GuGvkiPqmE3RGYP4lnI). The [linked video](https://www.youtube.com/watch?v=a8KDQj9ULAE&list=PLsjpRo2EZP1Ja-GuGvkiPqmE3RGYP4lnI&index=2) is the current reference.
+
 ## Variable naming
 
 - Start a variable name with a letter or underscore, not a digit. Digits are allowed after the first character.
